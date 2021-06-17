@@ -35,8 +35,8 @@
 
 	<properties>
 		<elasticsearch.version>1.4.1</elasticsearch.version>
-		<tomcat.version>7.0.54</tomcat.version>
-		<apache.ds.version>2.0.0-M16</apache.ds.version>
+		<tomcat.version>7.0.59</tomcat.version>
+		<apache.ds.version>2.0.0.AM26</apache.ds.version>
 		<path.delim>\\</path.delim>
 	</properties>
 
@@ -188,7 +188,7 @@
 		<dependency>
 			<groupId>com.jayway.jsonpath</groupId>
 			<artifactId>json-path</artifactId>
-			<version>0.9.1</version>
+			<version>1.0.0</version>
 		</dependency>
 
 		<dependency>
