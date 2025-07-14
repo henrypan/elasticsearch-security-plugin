@@ -35,8 +35,8 @@
 
 	<properties>
 		<elasticsearch.version>1.4.1</elasticsearch.version>
-		<tomcat.version>7.0.54</tomcat.version>
-		<apache.ds.version>2.0.0-M16</apache.ds.version>
+		<tomcat.version>9.0.106</tomcat.version>
+		<apache.ds.version>2.0.0.AM26</apache.ds.version>
 		<path.delim>\\</path.delim>
 	</properties>
 
